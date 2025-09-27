@@ -1,0 +1,35 @@
+daemonize
+show-failed-attempts
+clock
+screenshot
+ignore-empty-password
+effect-blur=5x5
+effect-vignette=1:1
+color=1f1d2e80
+font="CaskaydiaCove Nerd Font"
+indicator
+indicator-radius=200
+indicator-thickness=20
+line-color=000000
+ring-color=1d2021
+inside-color=282828
+key-hl-color=fe8019
+separator-color=00000000
+text-color=fbf1c7
+text-caps-lock-color=""
+line-ver-color=98971a
+ring-ver-color=98971a
+inside-ver-color=282828
+text-ver-color=e0def4
+ring-wrong-color=cc241d
+text-wrong-color=fbf1c7
+inside-wrong-color=cc241d
+inside-clear-color=282828
+text-clear-color=fbf1c7
+ring-clear-color=ebdbb2
+line-clear-color=000000
+line-wrong-color=cc241d
+bs-hl-color=ebdbb2
+datestr=%a, %B %e
+timestr=%H:%M
+# fade-in=1
