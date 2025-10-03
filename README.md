@@ -11,29 +11,30 @@
 **Discord + Equicord (System24 theme)**![discord](https://github.com/visibobl/swaydots/blob/main/screenies/discord.png?raw=true)
 **Gaming**![home](https://github.com/visibobl/swaydots/blob/main/screenies/karts.png?raw=true)
 </details>
-
 </br>
 
 ---
-### Details
-- **OS:** Arch Linux (btw)
-- **Window Manager:** Sway
-- **Colour scheme:** Gruvbox dark hard
-- **Autotiling script:** [Autotiling](https://github.com/nwg-piotr/autotiling)
-- **Status Bar:** Waybar
-- **Terminal:** Kitty
-- **Shell:** Fish
-- **Prompt:** Starship
-- **App launcher:** Rofi
-- **File browser:** Nautilus
-- **Lockscreen:** Swaylock-effects
-- **Discord:** Discord + [Equicord](https://equicord.org/)
-- **Browser:** [Zen Browser](https://zen-browser.app/)
-- **Font:** CaskaydiaCove Nerd Font
-- **AUR Helper:** Paru
-- **GTK Theme:** [Colloid-Dark-Gruvbox](https://github.com/vinceliuice/Colloid-gtk-theme)
----
 
+| Category          | Application     |
+| ----------------- | --------------- |
+| **OS**            | Arch Linux (btw) |
+| **Window Manager**| Sway            |
+| **Colour scheme** | Gruvbox dark hard |
+| **Autotiling script** | [Autotiling](https://github.com/nwg-piotr/autotiling) |
+| **Bar**           | Waybar          |
+| **Terminal**      | Kitty           |
+| **Shell**         | Fish            |
+| **Prompt**        | Starship        |
+| **Menu**          | Rofi            |
+| **File browser**  | Nautilus        |
+| **Lockscreen**    | Swaylock-effects|
+| **Discord**       | Discord + [Equicord](https://equicord.org/) |
+| **Spotify**       | Spotify + Spicetify |
+| **Browser**       | [Zen Browser](https://zen-browser.app/) |
+| **Font**          | CaskaydiaCove Nerd Font |
+| **AUR Helper**    | Paru            |
+| **GTK Theme**     |[Colloid-Dark-Gruvbox](https://github.com/vinceliuice/Colloid-gtk-theme) |
+---
 ### (AUR) Packages:
 ###### I probably forgot a bunch of 'em
 ```
