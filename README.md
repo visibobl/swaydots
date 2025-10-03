@@ -2,10 +2,18 @@
 
 ### Screenies
 **Horizontal + vertical monitors :D**![home](https://github.com/visibobl/swaydots/blob/main/screenies/wind.png?raw=true)
+<details>
+    <summary>Other images</summary>
+
 **Another one**![home2](https://github.com/visibobl/swaydots/blob/main/screenies/samori.png?raw=true)
+**Brave browser**![browser](https://github.com/visibobl/swaydots/blob/main/screenies/browsa.png?raw=true)
 **Cava + Spicetify (Spotify-TUI theme)**: ![music](https://github.com/visibobl/swaydots/blob/main/screenies/moosic.png?raw=true)
-**Discord + Equicord (System24 theme)**![home](https://github.com/visibobl/swaydots/blob/main/screenies/discord.png?raw=true)
-**Gaming :/**![home](https://github.com/visibobl/swaydots/blob/main/screenies/karts.png?raw=true)
+**Discord + Equicord (System24 theme)**![discord](https://github.com/visibobl/swaydots/blob/main/screenies/discord.png?raw=true)
+**Gaming**![home](https://github.com/visibobl/swaydots/blob/main/screenies/karts.png?raw=true)
+</details>
+
+</br>
+
 ---
 ### Details
 - **OS:** Arch Linux (btw)
