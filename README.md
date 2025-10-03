@@ -14,7 +14,7 @@
 </br>
 
 ---
-
+### Details
 | Category          | Application     |
 | ----------------- | --------------- |
 | **OS**            | Arch Linux (btw) |
